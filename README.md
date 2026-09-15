@@ -21,4 +21,4 @@ This project focuses on the end-to-end data engineering, structural cleansing, a
 The final phase of the pipeline generates warning-free, presentation-ready dashboard charts using Seaborn to visualize geographical patient distribution and regional health sector volumes, ensuring medical administrators have clear, executive-level insights.
 
 ---
-*Note: This project forms part of my foundational portfolio prep ahead of entering my Diploma in Health Records & Information Technology.*
+*Note: This project forms part of my foundational portfolio prep ahead of entering my Diploma in Information Technology.*
